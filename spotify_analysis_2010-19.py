@@ -82,6 +82,3 @@ ax.barh(['2018', '2019'], [danceability_mean_2018, danceability_mean_2019], colo
 ax.set_xlabel('Mean Danceability Score')
 ax.set_title('Mean Danceability Score Comparison: 2018 vs 2019')
 plt.show()
-
-
-
