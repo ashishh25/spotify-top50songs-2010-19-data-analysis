@@ -1,0 +1,13 @@
+name,model,selling_price,units_sold,Brand,month
+BMW X5,SUV,4000000,12,BMW,January
+Fortuner,Sedan,750000,23,TOYOTA,January
+Verna,Sedan,1800000,24,Hyundai,February
+Alto,SUV,400000,134,Maruti Suzuki,February
+Seltos,SUV,750000,90,Kia,March
+Brezza,SUV,900000,60,Maruti Suzuki,March
+Land Rover,SUV,120000,80,Land Rover,April
+Swift,SUV,850000,73,Maruti Suzuki,April
+Creta,SUV,1850000,54,Hyundai,April
+XUV 300,SUV,1150000,61,Mahindra,March
+NEXON,SUV,850000,82,TATA,January
+PUNCH,SUV,1050000,82,TATA,January
